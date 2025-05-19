@@ -1,1 +1,0 @@
-import{_ as s,o as t,c,a as n,b as a}from"./index-ef6a98de.js";const o={},r={class:"flex h-screen items-center justify-center"};function i(_,e){return t(),c("div",r,e[0]||(e[0]=[n("img",{src:a,class:"animate-bounce w-32 h-32 -z-100"},null,-1)]))}const f=s(o,[["render",i]]);export{f as default};
